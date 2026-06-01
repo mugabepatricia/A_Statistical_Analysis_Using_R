@@ -1,0 +1,121 @@
+Student_ID,Gender,Department,Study_Hours_Per_Day,Sleep_Hours_Per_Day,Attendance_Rate,GPA
+1,Male,Computer Science,5.2,7.7,74,1.5
+2,Male,Business,4.3,5.7,81,1.62
+3,Male,Business,5.5,8.5,87,1.61
+4,Female,Public Health,6.8,5.1,91,2.03
+5,Female,Public Health,4.1,7.5,70,1.64
+6,Male,Public Health,4.1,9.4,79,1.5
+7,Male,Computer Science,6.9,5.6,77,1.78
+8,Female,Public Health,5.7,6.1,75,1.57
+9,Male,Business,3.8,6.9,100,1.69
+10,Male,Business,5.3,6.2,86,1.92
+11,Female,Public Health,3.8,4.9,69,1.5
+12,Male,Public Health,3.8,6.9,91,1.73
+13,Female,Statistics,4.9,5.5,100,1.7
+14,Male,Business,1.6,7.4,92,1.5
+15,Female,Computer Science,1.9,5.7,67,1.5
+16,Female,Statistics,3.7,8.7,77,1.5
+17,Female,Public Health,3.0,5.9,95,1.5
+18,Male,Public Health,5.0,6.4,75,1.5
+19,Female,Business,3.1,7.8,86,1.89
+20,Male,Public Health,2.4,5.3,90,1.5
+21,Male,Computer Science,6.7,7.1,73,1.73
+22,Male,Business,4.2,8.4,81,1.69
+23,Male,Public Health,4.6,4.9,50,1.5
+24,Female,Business,2.4,7.0,72,1.5
+25,Female,Public Health,3.7,7.1,79,1.68
+26,Male,Public Health,4.7,7.7,70,1.75
+27,Male,Public Health,2.8,5.3,98,1.5
+28,Female,Computer Science,5.1,5.2,68,1.54
+29,Male,Computer Science,3.6,7.4,78,1.52
+30,Female,Business,4.1,7.2,83,1.5
+31,Male,Public Health,3.6,7.1,96,1.5
+32,Male,Public Health,7.3,7.2,68,2.09
+33,Female,Computer Science,4.5,6.0,94,1.98
+34,Male,Public Health,2.9,7.1,82,1.5
+35,Female,Computer Science,5.7,7.2,72,1.84
+36,Male,Public Health,2.7,5.9,87,1.55
+37,Male,Business,4.8,9.0,84,2.23
+38,Male,Public Health,1.6,7.4,76,1.53
+39,Female,Public Health,2.5,5.4,83,1.5
+40,Male,Statistics,4.8,7.6,78,1.54
+41,Male,Computer Science,5.6,5.6,83,1.52
+42,Male,Public Health,4.8,7.7,89,1.78
+43,Male,Public Health,4.3,8.2,98,1.64
+44,Female,Statistics,4.0,5.8,70,1.5
+45,Female,Statistics,2.3,8.0,100,1.5
+46,Male,Computer Science,3.4,7.3,62,1.5
+47,Female,Statistics,3.8,7.8,80,1.88
+48,Male,Business,6.1,9.1,88,2.03
+49,Male,Statistics,5.0,6.5,85,1.73
+50,Male,Business,1.9,5.9,76,1.6
+51,Female,Computer Science,5.0,5.7,80,1.71
+52,Female,Computer Science,3.9,5.8,77,1.5
+53,Female,Computer Science,3.5,6.7,76,1.78
+54,Female,Computer Science,5.4,7.2,90,1.9
+55,Female,Computer Science,6.0,7.1,86,1.69
+56,Female,Business,5.9,7.8,75,1.76
+57,Female,Business,3.2,6.8,91,1.5
+58,Female,Computer Science,4.0,8.5,85,1.5
+59,Female,Statistics,5.0,6.5,90,1.91
+60,Male,Public Health,6.0,10.0,88,2.2
+61,Female,Computer Science,3.8,7.6,74,1.5
+62,Female,Statistics,4.2,5.8,76,1.69
+63,Female,Public Health,2.8,5.5,89,1.5
+64,Female,Computer Science,2.7,7.4,88,1.5
+65,Female,Computer Science,5.7,6.5,82,1.69
+66,Female,Business,6.5,7.7,83,1.76
+67,Female,Public Health,4.4,7.4,95,1.75
+68,Female,Public Health,6.0,6.7,76,1.66
+69,Female,Statistics,5.0,5.8,87,1.79
+70,Female,Business,3.5,5.0,80,1.53
+71,Female,Business,5.0,6.3,80,1.67
+72,Male,Business,6.8,7.8,93,1.83
+73,Male,Business,4.4,7.1,90,1.62
+74,Female,Public Health,6.8,5.3,90,2.05
+75,Female,Public Health,1.0,7.0,95,1.5
+76,Male,Computer Science,5.7,7.3,82,1.65
+77,Female,Computer Science,4.6,5.7,89,1.72
+78,Male,Business,4.1,7.0,79,1.73
+79,Male,Business,4.6,6.9,85,1.5
+80,Male,Business,1.5,5.4,81,1.5
+81,Male,Computer Science,4.2,7.2,83,1.54
+82,Male,Statistics,5.0,7.5,88,1.86
+83,Female,Statistics,6.7,8.1,74,1.75
+84,Male,Computer Science,3.7,8.1,100,1.5
+85,Female,Computer Science,3.3,5.1,72,1.5
+86,Female,Computer Science,3.7,5.7,70,1.52
+87,Male,Computer Science,5.9,7.4,94,1.92
+88,Male,Computer Science,5.0,7.4,90,1.63
+89,Female,Computer Science,3.7,7.4,88,1.74
+90,Male,Business,5.3,10.0,88,1.56
+91,Male,Business,4.6,7.5,82,1.68
+92,Female,Business,6.0,8.2,73,1.59
+93,Female,Business,3.4,7.9,83,1.5
+94,Male,Computer Science,4.0,7.6,75,1.6
+95,Female,Statistics,3.9,6.4,92,1.52
+96,Male,Public Health,2.3,7.7,81,1.5
+97,Male,Computer Science,4.9,5.9,74,1.82
+98,Male,Public Health,4.9,6.5,79,1.6
+99,Female,Statistics,4.5,6.2,86,1.82
+100,Female,Business,4.1,6.9,76,1.5
+101,Female,Statistics,2.4,9.6,74,1.54
+102,Female,Computer Science,3.9,4.6,84,1.82
+103,Female,Business,4.0,7.6,84,1.5
+104,Male,Computer Science,3.3,4.9,77,1.5
+105,Male,Business,4.3,6.2,77,1.71
+106,Male,Public Health,5.1,8.1,84,1.73
+107,Male,Public Health,7.3,6.9,68,1.94
+108,Female,Public Health,4.8,5.5,68,1.51
+109,Male,Statistics,4.9,5.9,75,1.67
+110,Female,Computer Science,4.4,7.6,80,1.64
+111,Male,Statistics,1.6,5.9,85,1.57
+112,Female,Public Health,4.5,7.1,97,1.79
+113,Female,Computer Science,4.6,6.9,91,1.78
+114,Male,Public Health,8.2,6.0,80,1.96
+115,Male,Statistics,4.2,9.4,82,1.6
+116,Male,Statistics,5.0,7.6,72,1.6
+117,Male,Statistics,4.4,4.4,82,1.7
+118,Female,Public Health,2.7,7.0,79,1.5
+119,Male,Computer Science,6.2,6.0,85,1.9
+120,Male,Computer Science,5.6,7.8,74,2.08
