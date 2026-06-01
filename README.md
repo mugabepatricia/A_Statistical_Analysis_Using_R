@@ -195,6 +195,7 @@ Through this project, I strengthened my skills in:
 
 ## Deliverables
 - <a href="https://rpubs.com/Patricia_Mugabe/1437347">HTML Analysis Report</a>
+- <a href="https://github.com/mugabepatricia/A_Statistical_Analysis_Using_R/blob/main/MSC%20Academic%20Performance%20Analysis.pdf">PDF Analysis Report</a>
 
 ## Author
 
