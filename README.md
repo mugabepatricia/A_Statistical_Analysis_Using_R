@@ -193,6 +193,7 @@ Through this project, I strengthened my skills in:
 * Academic Reporting
 * R Programming
 
+## Deliverables
 - <a href="https://rpubs.com/Patricia_Mugabe/1437347">HTML Analysis Report</a>
 
 ## Author
