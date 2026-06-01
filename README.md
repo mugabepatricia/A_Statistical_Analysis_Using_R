@@ -205,4 +205,4 @@ Aspiring Data Analyst | Research Analyst | R Programming Enthusiast
 
 Open to remote opportunities, research collaborations, and data analytics projects.
 
-Connect with me on LinkedIn and explore more projects in my portfolio.
+Connect with me on LinkedIn (https://www.linkedin.com/in/patricia-mugabe/) and explore more projects in my portfolio.
